@@ -1,0 +1,11 @@
+runs/
+training_data/
+harvard-cs-2881-hw0/
+*.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.bin
+*.safetensors
+*.zip
+*.enc
+.DS_Store
